@@ -1,0 +1,4 @@
+if game.GameId == 21532277 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/witnessez/code/loader/notoriety'), true))()
+    return
+end
