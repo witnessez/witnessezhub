@@ -1,3 +1,0 @@
-if game.PlaceId == 1962086868 then 
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/witnessez/witnessezhub/loader/tower%20of%20hell",true))()
-end
